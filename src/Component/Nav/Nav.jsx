@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './Nav.css'
-import logo from '../../Assets/p.jpg'
+import logo from '../../assets/p.jpg'
 import { IoSearch } from "react-icons/io5";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { CgProfile } from "react-icons/cg";
